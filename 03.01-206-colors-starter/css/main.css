@@ -65,18 +65,22 @@ footer {
 
   #column-1 {
     background-color: maroon;
+    width: 50%;
   }
 
   #column-2 {
     background-color: grey;
+    width: 50%;
   }
 
   #column-3 {
     background-color: white;
+    width: 50%;
   }
 
   footer {
     background-color: black;
+    width: 50%;
   }
 
 }
@@ -86,22 +90,28 @@ footer {
 @media (min-width: 1200px) {
   header {
     background-color: tan;
+    width: 33%;
   }
 
   #column-1 {
     background-color: azure;
+    width: 33%;
   }
 
   #column-2 {
     background-color: yellow;
+    width: 33%;
   }
 
   #column-3 {
     background-color: purple;
+    width: 33%;
   }
 
   footer {
     background-color: forestgreen;
+    width: 33%;
+
   }
 
 }
